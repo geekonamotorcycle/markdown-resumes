@@ -27,7 +27,7 @@ I thought it would be an interesting idea to have the LLM follow a questions-and
 [**You can find them all here**](LLM-Skill-Assessments)
 
 1. [The first assessment was with Docker, something I operate daily.](LLM-Skill-Assessments/Docker-Assessments.md)
-2. [This is a Windows assessment.](LLM-Skill-Assessments/Windows-Assessments.md)
+2. [This is a Windows assessment.](LLM-Skill-Assessments/windows-server-skills-assessment.md)
 
 I did more of these, but I have not gotten to converting and posting them yet.
 
