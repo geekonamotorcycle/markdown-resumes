@@ -2,7 +2,6 @@
 
 <joshua@porrata.net> | (813) 777-6289 | [LinkedIn](https://www.linkedin.com/in/joshua-p-8a2a3424/) | [GitHub](https://github.com/geekonamotorcycle/markdown-resumes) | Greater Tampa Bay, FL  
 
-
 ---
 
 ## **Specializing in Virtualization, Secure Systems Architecture, and Windows/Linux Interoperability**
@@ -81,7 +80,6 @@ These partnerships strengthen my ability to:
 - Rapidly source and implement best-fit infrastructure solutions  
 - Deliver fully supported private cloud and hybrid environments  
 - Provide vendor-aligned support for networking, endpoint protection, and compliance-driven IT operations
-
 
 ---
 
