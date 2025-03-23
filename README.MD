@@ -35,8 +35,21 @@ I did more of these, but I have not gotten to converting and posting them yet.
 
 ## Get In Touch
 
-If you have any questions or would like to connect, please feel free to reach out to me. I’m always open to discussions, collaborations, and feedback!
+If you're a **Tampa Bay business**—or any organization with on-site IT staff looking to reduce costs, regain control, or **migrate away from VMware or the public cloud**—I want to hear from you.
 
----
+I'm an experienced systems engineer and consultant with strong vendor partnerships across the open-source and enterprise IT landscape. I help small to mid-sized businesses modernize their infrastructure without compromising reliability or user experience.
 
-Thank you for exploring my repository. I look forward to connecting with you!
+Some of the vendors I work closely with:
+
+- [**Vates**](https://vates.tech/xen-orchestra/) – creators of **Xen Orchestra** and **XCP-ng**, providing a powerful, open-source virtualization platform that replaces both **VMware** and **Veeam**. With built-in disaster recovery, backup, and full enterprise support at a fraction of the cost, it’s a true all-in-one alternative.  
+- [Cisco/Meraki](https://meraki.cisco.com/) – secure, cloud-managed networking  
+- [TD Synnex](https://www.tdsynnex.com/) – global IT distributor with access to a broad range of solutions  
+- [ixSystems](https://www.ixsystems.com/) – enterprise-grade storage built on open-source (TrueNAS)  
+- [Pax8](https://www.pax8.com/) – cloud distributor for SaaS, backup, and security tools  
+- [Ingram Micro](https://www.ingrammicro.com/) – global sourcing for hardware, software, and services  
+- [Ruckus/CommScope](https://www.ruckusnetworks.com/) – advanced wired and wireless network solutions
+
+Whether you need a second opinion, a project lead, or someone who can deliver a complete solution with minimal overhead, let’s talk.
+
+📧 Reach out via [email](mailto:joshua@rpdigi.net)  
+💬 Or connect with me directly on [LinkedIn](https://www.linkedin.com/in/joshua-porrata/)
