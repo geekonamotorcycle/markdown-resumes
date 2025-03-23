@@ -31,6 +31,20 @@ I thought it would be an interesting idea to have the LLM follow a questions-and
 
 I did more of these, but I have not gotten to converting and posting them yet.
 
+### Coming Soon
+
+The following areas reflect demonstrated experience through technical discussions, solution design, and applied implementations. Formal structured assessments are in progress and will be added in future updates.
+
+| Topic Area                    | Summary of Experience Demonstrated                                         |
+|------------------------------|----------------------------------------------------------------------------|
+| AWS EC2 & Networking         | Proven expertise with EC2 provisioning, VPC design, security groups, NACLs, CloudWatch monitoring, and EBS snapshot strategies. |
+| WordPress Infrastructure     | Extensive work across performance tuning, security hardening, automated backups, and multi-site management. |
+| Active Directory             | Experience with real-world AD deployment scenarios including DNS integration, DHCP failover, replication, and multi-DC topology. |
+| XCP-ng + Xen Orchestra       | Actively building deep knowledge in private virtualization stack design and administration. |
+| Email Security & Deliverability | Implementation of email authentication protocols (SPF, DKIM, DMARC), with focus on sender reputation and phishing prevention. |
+
+---
+
 ---
 
 ## Get In Touch
