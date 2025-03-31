@@ -121,7 +121,7 @@ This document is intended for:
 - Leveraged comprehensive DR and backup expertise, aligning virtualization strategies closely with robust disaster recovery solutions (Veeam, Xen Orchestra replication, Datto, StorageCraft).  
 - Integrated virtualization planning and deployment with meticulous disaster recovery testing, ensuring rapid failover, minimal downtime, and seamless business continuity across virtualized environments.  
   
-### Relevant Soft S_kills in Virtualization & Capacity Planning  
+### Relevant Soft Skills in Virtualization & Capacity Planning  
 
 - Strategic Vendor Relationships: Effectively utilized partnership with Vates to deliver tailored virtualization solutions, optimized troubleshooting, and direct access to cutting-edge developments in virtualization technology.  
 - Analytical Problem Solving: Demonstrated analytical excellence in virtualization capacity planning, infrastructure optimization, and detailed performance tuning tasks.  
