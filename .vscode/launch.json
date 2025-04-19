@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Cleanup Task Only",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${workspaceFolder}/placeholder.ps1", // optional or dummy
+      "preLaunchTask": "Delete .html and .pdf files (PowerShell)",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
+// This configuration is for Visual Studio Code and is used to run a PowerShell script with a pre-launch task that deletes all .html and .pdf files in the workspace folder. The script can be a placeholder or dummy script, as the main focus is on the pre-launch task. The task is defined in the tasks.json file and is executed before
+// the script runs. The configuration specifies the workspace folder as the current working directory (cwd) for the script execution. This setup is useful for developers who want to clean up their project directory before running a PowerShell script.
+// The configuration can be executed from the debug panel in Visual Studio Code, allowing for a streamlined workflow when working with PowerShell scripts and tasks.
+// To run this configuration, open the debug panel (Ctrl+Shift+D), select "Run Cleanup Task Only" from the dropdown, and click the green play button. This will execute the pre-launch task to delete the specified files before running the PowerShell script.
+// Note: Make sure to run this configuration with caution, as it will permanently delete files without confirmation. You can modify the file extensions in the "Include" parameter of the task to target different file types if needed.
+// To modify the task, open the tasks.json file and change the "Include" parameter in the "Get-ChildItem" command to specify different file types. For example, to delete all .txt files, you can change it to "Get-ChildItem -Recurse -Include *.txt | Remove-Item -Force". This will delete all .txt files in the current directory and its subdirectories.

@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Delete .html and .pdf files (PowerShell)",
+      "type": "shell",
+      "command": "Get-ChildItem -Recurse -Include *.html,*.pdf | Remove-Item -Force",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "options": {
+        "shell": {
+          "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+          "args": ["-Command"]
+        }
+      }
+    }
+  ]
+}
+
+// This is a Visual Studio Code task configuration file that defines a task to delete all .html and .pdf files in the current directory and its subdirectories using PowerShell.
+// The task is labeled "Delete .html and .pdf files (PowerShell)" and is set as the default build task. It uses the PowerShell command "Get-ChildItem" to find the files and "Remove-Item" to delete them. The task does not have any problem matchers defined, meaning it won't report any errors or warnings in the output panel. The shell options specify that PowerShell Core (pwsh) should be used to execute the command.
+// The task is grouped under the "build" category, making it easy to run from the command palette or keybindings. This configuration is useful for developers who want to quickly clean up their project directory by removing unnecessary HTML and PDF files.
+// The task can be executed from the command palette or assigned a keybinding for quick access.
+// Note: Make sure to run this task with caution, as it will permanently delete files without confirmation.
+// You can modify the file extensions in the "Include" parameter to target different file types if needed.
+// To run this task, open the command palette (Ctrl+Shift+P), type "Run Task", and select "Delete .html and .pdf files (PowerShell)".
+// Alternatively, you can assign a keybinding to this task for quicker access in the future.
+// To assign a keybinding, go to File > Preferences > Keyboard Shortcuts, search for "Tasks: Run Task", and add a new keybinding for the task label "Delete .html and .pdf files (PowerShell)".
+// This task is useful for developers who want to quickly clean up their project directory by removing unnecessary HTML and PDF files.

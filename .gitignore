@@ -1,1 +1,9 @@
-references/references.md
+# Ignore the entire references directory
+references/
+
+# Ignore references.md in the root directory
+/references.md
+
+# Ignore all PDF and HTML files
+*.pdf
+*.html
