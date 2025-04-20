@@ -36,15 +36,15 @@ Experienced IT support engineer with 17+ years helping teams across healthcare, 
 - Diagnosed software, networking, printing, and authentication issues across hybrid environments
 - Delivered end-user support via ConnectWise, Teams, and email queues with SLA compliance
 
-### JPMorgan Chase (via SGA Inc.) — Technical Operations Analyst
+### JPMorgan Chase — IAM and Technical Operations Analyst
 
-01/2014 – 03/2016 | Tampa, FL
+01/2014 – 03/2016 | Tampa, FL (via SGA Inc., then direct hire)
 
 - Built access review and user cleanup tools with PowerShell
 - Supported internal IAM help desk queues and compliance reporting teams
 - Promoted to full-time for contributions to tooling and documentation
 
-### Savvis / CenturyLink (via Ciber) — Technical Support Analyst
+### CenturyLink / Lumen (via Ciber) — Technical Support Analyst
 
 12/2010 – 12/2013 | Tampa, FL
 
