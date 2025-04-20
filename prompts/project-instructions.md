@@ -16,6 +16,7 @@ When a job is provided, the assistant must:
      - [Markdown Resumes](https://github.com/geekonamotorcycle/markdown-resumes)
      - [Password Manager Templates](https://github.com/geekonamotorcycle/Password-Manager-Templates)
    - Uploaded assessments (e.g., Docker, Cloudflare, Windows Server, IAM)
+   - uploaded project plans that demonstrate software skills and pprohject management skills
 
 2. **Only make reasonable assumptions**. If a skill or technology is not in the skills list, project files, or stated preferences, it should not be included.
 
@@ -59,14 +60,23 @@ All cover letters must:
 
 ## Resume Policy Preferences
 
-- Use this email: `joshua.porrata@gmail.com`
-- Location: Greater Tampa Bay, FL
-- **Availability**: Open to remote work or other arrangements after speaking with the potential employer or client  
+- **Email**: Use `joshua.porrata@gmail.com`
+- **Location**: Greater Tampa Bay, FL
+- **Availability**: Open to remote work or other arrangements after speaking with the potential employer or client
 - **References**: Available upon request following conversation — not published to avoid data broker scraping
-- **Education**: Omit degrees; emphasize hands-on experience and partnerships instead
-- **Certifications**: Replace with strategic partnerships from `2025-Master-Skill-list.md`
-- **Final Note**: Every resume must include a line near the end:  
+- **Education**: Do not include degrees or colleges; emphasize skills, self-education, and verified partnerships instead
+- **Certifications**: Omit unless confirmed by user; instead list verified strategic partnerships:
+  - TD Synnex, AppDirect, Cisco, Meraki, Ruckus and CommScope, Vates (XCP-ng), Pax8, Ingram Micro, Microsoft Partner Network (MPN)
+
+### Final Notes for Every Resume
+
+- Include the following summary near the end of the resume:  
   > *This resume highlights only selected skills and experience. Additional capabilities and project history are available upon request.*
+
+- End each resume with a short, **distinctive tagline or closing line** that reflects confidence, character, or passion for problem-solving. Examples:  
+  > *Let’s build secure, automated infrastructure that just works.*  
+  > *Let’s make systems documentation your team can actually use.*  
+  > *Let’s solve the problems everyone else gave up on.*
 
 ---
 
