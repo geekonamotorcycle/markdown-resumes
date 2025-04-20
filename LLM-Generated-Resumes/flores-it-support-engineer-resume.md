@@ -1,14 +1,18 @@
 # Joshua Porrata
 
 [joshua.porrata@gmail.com](mailto:joshua.porrata@gmail.com) | (813) 777-6289  
-[LinkedIn](https://www.linkedin.com/in/joshua-p-8a2a3424/) | [GitHub](https://github.com/geekonamotorcycle/markdown-resumes)  
+[LinkedIn](https://www.linkedin.com/in/joshua-p-8a2a3424/) |
+[GitHub](https://github.com/geekonamotorcycle/markdown-resumes)  
 Greater Tampa Bay, FL — Open to **100% remote** roles
 
 ---
 
 ## IT Support Engineer — Responsive, Secure, User-Focused
 
-Experienced IT support engineer with 17+ years helping teams across healthcare, finance, legal, and nonprofit sectors stay secure and productive. Expert in remote diagnostics, Windows environments, user onboarding/offboarding, and endpoint protection. Trusted to support both executive users and large endpoint fleets with professionalism, clear documentation, and strong problem-solving instincts.
+Experienced IT support engineer with 17+ years helping teams across healthcare, finance, legal, and nonprofit sectors
+ stay secure and productive. Expert in remote diagnostics, Windows environments, user onboarding/offboarding, and
+ endpoint protection. Trusted to support both executive users and large endpoint fleets with professionalism, clear
+ documentation, and strong problem-solving instincts.
 
 ---
 
@@ -60,7 +64,9 @@ Experienced IT support engineer with 17+ years helping teams across healthcare, 
 
 ---
 
-**Note:** This resume highlights selected skills and experiences most relevant to the role. Additional capabilities and detailed experience are available upon request. I thrive in complex, high-stakes environments and consistently bring clarity to technical challenges.
+**Note:** This resume highlights selected skills and experiences most relevant to the role. Additional capabilities and
+ detailed experience are available upon request. I thrive in complex, high-stakes environments and consistently bring
+ clarity to technical challenges.
 
 ---
 
@@ -73,7 +79,8 @@ Experienced IT support engineer with 17+ years helping teams across healthcare, 
 
 ## Availability
 
-Authorized to work in the U.S. without sponsorship. Seeking **remote-only** roles. Responsive, clear, and reliable in fast-paced IT support environments.
+Authorized to work in the U.S. without sponsorship. Seeking **remote-only** roles. Responsive, clear, and reliable in
+ fast-paced IT support environments.
 
 ---
 
