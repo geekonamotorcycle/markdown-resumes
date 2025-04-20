@@ -15,6 +15,131 @@ This document is intended for:
 
 ---
 
+## Work Experience
+
+### RP Digital Consulting LLC (DBA RP Digi) — Principal Consultant & Privacy-Focused Architect
+
+01/2025 – Present | Greater Tampa Bay Area (Remote)
+
+As founder of RP Digi, I help clients regain infrastructure independence by designing secure, self-managed environments. My consulting engagements focus on privacy, long-term sustainability, and resilience — often for clients reducing reliance on cloud platforms.
+
+I also lead full-cycle engagements for eCommerce and warehouse fulfillment businesses, offering end-to-end technical and operational support. From storefront creation to last-mile shipping logistics and content marketing, I help entrepreneurs turn ideas into functioning systems.
+
+#### Key Infrastructure Focus Areas
+
+- Designed colocation and on-premise environments using XCP-ng, TrueNAS SCALE, pfSense, and FreeIPA
+- Deployed hybrid identity systems with AD, Entra ID, and M365 integrations
+- Built secure, segmented networks (DNS, DHCP, VLANs) with Zero Trust principles
+- Led physical-to-virtual, physical-to-cloud, and virtual-to-cloud migrations
+- Authored documentation, DR plans, and automation workflows using PowerShell, Bash, and Python
+- Advised clients on secure procurement, compliance alignment, and infrastructure growth planning
+
+#### Business Services & eCommerce Enablement
+
+- Designed and launched eCommerce websites tailored for order pipeline clarity and fulfillment readiness
+- Developed full inventory-to-shipping workflows, including packaging, returns, and automation
+- Provided guidance on ad placement, audience targeting, and content strategy
+- Authored blog content and helped clients position products effectively across major platforms
+- Taught small business owners how to manage customer experience and scale fulfillment
+
+#### Tools & Technologies
+
+XCP-ng, TrueNAS SCALE, pfSense, FreeIPA, Windows Server, Docker, Bitdefender GravityZone, ESET Protect, Cloudflare Zero Trust, Zabbix, PowerShell, Bash, WordPress, Stripe, ShipStation, Facebook Ads, Google Analytics
+
+#### Strategic Partnerships
+
+Cisco, Meraki, Ruckus, IXsystems, Vates (XCP-ng), TD Synnex, Ingram Micro, AppDirect, Pax8, Microsoft Partner Network (MPN)
+
+### Summit Business Technologies — Senior Systems Engineer
+
+10/2017 – 01/2025 | Remote from Florida
+
+Promoted to Senior Systems Engineer supporting 100+ clients in legal, healthcare, nonprofit, and small business sectors. Led design and administration of secure infrastructure environments and served as a subject matter expert in disaster recovery, endpoint protection, system documentation, and Microsoft server technologies. Acted as both project engineer and Tier 3 escalation point while maintaining direct client relationships in a managed services context.
+
+#### Subject Matter Expertise (SME)
+
+- Disaster recovery and business continuity planning, including tested DR runbooks and backup validation
+- Email protection strategies including spam filtering, DMARC/SPF/DKIM configuration, and user training
+- Endpoint protection architecture using Bitdefender GravityZone and ESET across thousands of devices
+- Windows Server infrastructure design (2008–2022), AD, GPOs, DNS, and DHCP
+- Virtualization using VMware vSphere and Hyper-V, including hardware lifecycle planning
+- System documentation: authored SOPs, runbooks, and knowledge base entries for unfamiliar environments
+- Monitoring and alerting across servers, workstations, and network devices using Zabbix and ConnectWise Automate
+- Internal staff training on tools, escalation paths, and client environments
+
+#### Key Responsibilities
+
+- Supported and modernized multi-site Windows networks including Active Directory, Group Policy, DNS/DHCP, and file services
+- Led new client onboarding projects, hardware upgrades, network segmentation, and policy enforcement
+- Diagnosed complex issues involving remote access, email flow, firewall behavior, and system bottlenecks
+- Created and managed client-facing documentation libraries and internal SOPs to improve escalations
+- Built and supported disaster recovery workflows using Veeam, Datto, and Synology
+- Mentored junior engineers and support staff, often called upon to resolve unfamiliar or undocumented systems
+- Assisted business development with technical recommendations, cost-conscious licensing plans, and cloud migration strategies
+
+#### Tools & Platforms
+
+Windows Server, Microsoft 365, Entra ID, VMware vSphere, Hyper-V, pfSense, OPNsense, SonicWall, TrueNAS, Bitdefender GravityZone, ESET, PowerShell, Zabbix, ConnectWise Manage, ConnectWise Automate, Veeam, Datto, Teams, Zoom
+
+### JPMorgan Chase — IAM & Unstructured Data Analyst
+
+01/2014 – 03/2016 | Tampa, FL (via SGA Inc., then converted to FTE)
+
+Joined the Global Identity Access Management (IAM) team during a critical post-crisis data compliance initiative. The goal: standardize unstructured data permissions across newly acquired banks with disparate folder structures and incompatible compliance postures. Initially hired as a contractor, later converted to a full-time employee and groomed toward project leadership roles.
+
+#### JPMorgan Key Responsibilities
+
+- Collaborated with JPMC stakeholders across global business units to identify, assess, and resolve non-compliant shared folders and NTFS permission structures
+- Developed a custom tooling framework using PowerShell, Python, and VBScript to collect, standardize, and validate permissions metadata
+- Co-authored the organization’s standard for unstructured data permissions after hands-on evaluation of legacy data samples
+- Customized and executed permission remediation scripts in scheduled windows to align shares with compliance standards
+- Worked directly with end users and LOB leadership to gain buy-in and execute change management procedures
+
+#### Contributions
+
+- Created scalable automation workflows to transform data assessments into actionable remediation plans
+- Led QA and process validation efforts within a 15-person engineering team
+- Produced internal documentation, training resources, and runbooks to standardize project delivery
+- Recognized for detail-oriented problem-solving, documentation quality, and mentorship of peers
+- Promoted to full-time for exceptional contribution and cross-team collaboration
+
+#### Lasting Impact
+
+- Tools and methods developed during the project were adopted internally and transitioned to operational teams in the Philippines post-restructure
+- Enabled long-term policy compliance and reduction of permission sprawl in one of the world’s largest financial institutions
+
+### CenturyLink / Lumen (via Ciber) — Enterprise Support Analyst
+
+12/2010 – 12/2013 | Tampa, FL
+
+Originally hired by Ciber and retained through successive acquisitions by Savvis, CenturyLink, and ultimately Lumen. Served as one of only two overflow analysts trusted to provide Tier 2 technical support across **all enterprise clients simultaneously**. Known for adaptability, exceptional user service, and cross-client expertise. Supported high-visibility organizations including **Ameren Inc., Fisher Scientific, LVMH, World Bank**, and others.
+
+#### Key Contributions
+
+- Provided AD account support, Citrix troubleshooting, SCCM patching, and endpoint software remediation for 10,000+ users
+- Delivered enterprise-level customer service across varied industries with differing compliance and escalation requirements
+- Selected for the **overflow analyst role** due to ability to support all client environments on demand
+- Received frequent commendations from end users and client-side IT leads for responsiveness, clarity, and follow-through
+- Rewarded with additional responsibilities including remote access and **the rare privilege of working from home** — granted only to top-performing analysts
+- Authored internal documentation and escalation paths used to improve ticket resolution efficiency
+- Mentored junior analysts and provided informal QA for knowledge base updates and SOPs
+
+#### Ciber Tools & Platforms
+
+Citrix, Windows 7 & Server 2008/2012, Active Directory, SCCM, Remedy, Outlook, VPN clients, escalation and ticket routing tools
+
+### Verizon (via Siwel and Pomeroy) — IT Support Analyst
+
+01/2007 – 03/2009 | Temple Terrace, FL
+
+Delivered Tier 1–2 support across desktop, mobile, and VPN endpoints in an enterprise environment.
+
+- Managed AD onboarding, password resets, and ticketing
+- Supported VPN access, GPO behavior, and software installations
+- Helped triage issues across time zones and queues
+
+---
+
 ## **Detailed Technical and Soft Skills**
 
 ### Operating Systems & Infrastructure Management
@@ -622,130 +747,5 @@ IPv6 Expertise & Tunneling
 - **Cross-Platform Thinking** – Builds applications that connect Windows and Linux components seamlessly
 - **Continuous Learning** – Researches libraries, APIs, and system behaviors to extend value
 - **Pragmatic Implementation** – Favors working solutions over theoretical abstractions; ships reliable tools
-
----
-
-## Work Experience
-
-### RP Digital Consulting LLC (DBA RP Digi) — Principal Consultant & Privacy-Focused Architect
-
-01/2025 – Present | Greater Tampa Bay Area (Remote)
-
-As founder of RP Digi, I help clients regain infrastructure independence by designing secure, self-managed environments. My consulting engagements focus on privacy, long-term sustainability, and resilience — often for clients reducing reliance on cloud platforms.
-
-I also lead full-cycle engagements for eCommerce and warehouse fulfillment businesses, offering end-to-end technical and operational support. From storefront creation to last-mile shipping logistics and content marketing, I help entrepreneurs turn ideas into functioning systems.
-
-#### Key Infrastructure Focus Areas
-
-- Designed colocation and on-premise environments using XCP-ng, TrueNAS SCALE, pfSense, and FreeIPA
-- Deployed hybrid identity systems with AD, Entra ID, and M365 integrations
-- Built secure, segmented networks (DNS, DHCP, VLANs) with Zero Trust principles
-- Led physical-to-virtual, physical-to-cloud, and virtual-to-cloud migrations
-- Authored documentation, DR plans, and automation workflows using PowerShell, Bash, and Python
-- Advised clients on secure procurement, compliance alignment, and infrastructure growth planning
-
-#### Business Services & eCommerce Enablement
-
-- Designed and launched eCommerce websites tailored for order pipeline clarity and fulfillment readiness
-- Developed full inventory-to-shipping workflows, including packaging, returns, and automation
-- Provided guidance on ad placement, audience targeting, and content strategy
-- Authored blog content and helped clients position products effectively across major platforms
-- Taught small business owners how to manage customer experience and scale fulfillment
-
-#### Tools & Technologies
-
-XCP-ng, TrueNAS SCALE, pfSense, FreeIPA, Windows Server, Docker, Bitdefender GravityZone, ESET Protect, Cloudflare Zero Trust, Zabbix, PowerShell, Bash, WordPress, Stripe, ShipStation, Facebook Ads, Google Analytics
-
-#### Strategic Partnerships
-
-Cisco, Meraki, Ruckus, IXsystems, Vates (XCP-ng), TD Synnex, Ingram Micro, AppDirect, Pax8, Microsoft Partner Network (MPN)
-
-### Summit Business Technologies — Senior Systems Engineer
-
-10/2017 – 01/2025 | Remote from Florida
-
-Promoted to Senior Systems Engineer supporting 100+ clients in legal, healthcare, nonprofit, and small business sectors. Led design and administration of secure infrastructure environments and served as a subject matter expert in disaster recovery, endpoint protection, system documentation, and Microsoft server technologies. Acted as both project engineer and Tier 3 escalation point while maintaining direct client relationships in a managed services context.
-
-#### Subject Matter Expertise (SME)
-
-- Disaster recovery and business continuity planning, including tested DR runbooks and backup validation
-- Email protection strategies including spam filtering, DMARC/SPF/DKIM configuration, and user training
-- Endpoint protection architecture using Bitdefender GravityZone and ESET across thousands of devices
-- Windows Server infrastructure design (2008–2022), AD, GPOs, DNS, and DHCP
-- Virtualization using VMware vSphere and Hyper-V, including hardware lifecycle planning
-- System documentation: authored SOPs, runbooks, and knowledge base entries for unfamiliar environments
-- Monitoring and alerting across servers, workstations, and network devices using Zabbix and ConnectWise Automate
-- Internal staff training on tools, escalation paths, and client environments
-
-#### Key Responsibilities
-
-- Supported and modernized multi-site Windows networks including Active Directory, Group Policy, DNS/DHCP, and file services
-- Led new client onboarding projects, hardware upgrades, network segmentation, and policy enforcement
-- Diagnosed complex issues involving remote access, email flow, firewall behavior, and system bottlenecks
-- Created and managed client-facing documentation libraries and internal SOPs to improve escalations
-- Built and supported disaster recovery workflows using Veeam, Datto, and Synology
-- Mentored junior engineers and support staff, often called upon to resolve unfamiliar or undocumented systems
-- Assisted business development with technical recommendations, cost-conscious licensing plans, and cloud migration strategies
-
-#### Tools & Platforms
-
-Windows Server, Microsoft 365, Entra ID, VMware vSphere, Hyper-V, pfSense, OPNsense, SonicWall, TrueNAS, Bitdefender GravityZone, ESET, PowerShell, Zabbix, ConnectWise Manage, ConnectWise Automate, Veeam, Datto, Teams, Zoom
-
-### JPMorgan Chase — IAM & Unstructured Data Analyst
-
-01/2014 – 03/2016 | Tampa, FL (via SGA Inc., then converted to FTE)
-
-Joined the Global Identity Access Management (IAM) team during a critical post-crisis data compliance initiative. The goal: standardize unstructured data permissions across newly acquired banks with disparate folder structures and incompatible compliance postures. Initially hired as a contractor, later converted to a full-time employee and groomed toward project leadership roles.
-
-#### JPMorgan Key Responsibilities
-
-- Collaborated with JPMC stakeholders across global business units to identify, assess, and resolve non-compliant shared folders and NTFS permission structures
-- Developed a custom tooling framework using PowerShell, Python, and VBScript to collect, standardize, and validate permissions metadata
-- Co-authored the organization’s standard for unstructured data permissions after hands-on evaluation of legacy data samples
-- Customized and executed permission remediation scripts in scheduled windows to align shares with compliance standards
-- Worked directly with end users and LOB leadership to gain buy-in and execute change management procedures
-
-#### Contributions
-
-- Created scalable automation workflows to transform data assessments into actionable remediation plans
-- Led QA and process validation efforts within a 15-person engineering team
-- Produced internal documentation, training resources, and runbooks to standardize project delivery
-- Recognized for detail-oriented problem-solving, documentation quality, and mentorship of peers
-- Promoted to full-time for exceptional contribution and cross-team collaboration
-
-#### Lasting Impact
-
-- Tools and methods developed during the project were adopted internally and transitioned to operational teams in the Philippines post-restructure
-- Enabled long-term policy compliance and reduction of permission sprawl in one of the world’s largest financial institutions
-
-### CenturyLink / Lumen (via Ciber) — Enterprise Support Analyst
-
-12/2010 – 12/2013 | Tampa, FL
-
-Originally hired by Ciber and retained through successive acquisitions by Savvis, CenturyLink, and ultimately Lumen. Served as one of only two overflow analysts trusted to provide Tier 2 technical support across **all enterprise clients simultaneously**. Known for adaptability, exceptional user service, and cross-client expertise. Supported high-visibility organizations including **Ameren Inc., Fisher Scientific, LVMH, World Bank**, and others.
-
-#### Key Contributions
-
-- Provided AD account support, Citrix troubleshooting, SCCM patching, and endpoint software remediation for 10,000+ users
-- Delivered enterprise-level customer service across varied industries with differing compliance and escalation requirements
-- Selected for the **overflow analyst role** due to ability to support all client environments on demand
-- Received frequent commendations from end users and client-side IT leads for responsiveness, clarity, and follow-through
-- Rewarded with additional responsibilities including remote access and **the rare privilege of working from home** — granted only to top-performing analysts
-- Authored internal documentation and escalation paths used to improve ticket resolution efficiency
-- Mentored junior analysts and provided informal QA for knowledge base updates and SOPs
-
-#### Ciber Tools & Platforms
-
-Citrix, Windows 7 & Server 2008/2012, Active Directory, SCCM, Remedy, Outlook, VPN clients, escalation and ticket routing tools
-
-### Verizon (via Siwel and Pomeroy) — IT Support Analyst
-
-01/2007 – 03/2009 | Temple Terrace, FL
-
-Delivered Tier 1–2 support across desktop, mobile, and VPN endpoints in an enterprise environment.
-
-- Managed AD onboarding, password resets, and ticketing
-- Supported VPN access, GPO behavior, and software installations
-- Helped triage issues across time zones and queues
 
 ---
