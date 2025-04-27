@@ -6,7 +6,7 @@ Greater Tampa Bay, FL | [joshua.porrata@gmail.com](mailto:joshua.porrata@gmail.c
 
 ## Summary
 
-Accomplished IT Systems Engineer with over 8 years of experience specializing in endpoint management, security, and automation. Proven track record in leading teams to manage and secure large-scale endpoint infrastructures, including over 8,000 devices. Expertise in antivirus administration, patch and vulnerability management, and compliance with CIS benchmarks. Adept at developing and implementing strategies to enhance endpoint security and performance in diverse network environments.
+Accomplished IT Systems Engineer with over 8 years of experience in endpoint management, system hardening, security, and automation. Adept at managing and securing large-scale environments, including endpoint protection, patch management, and vulnerability remediation. Skilled in using automation tools like PowerShell and scripting languages to improve system efficiency and compliance. Focused on achieving security, reliability, and scalability across diverse IT environments.
 
 ---
 
