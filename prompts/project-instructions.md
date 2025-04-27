@@ -133,6 +133,7 @@ All cover letters must:
 - **Certifications**: Omit unless confirmed by user; instead list verified strategic partnerships:
   - TD Synnex, AppDirect, Cisco, Meraki, Ruckus and CommScope, Vates (XCP-ng), Pax8, Ingram Micro, Microsoft Partner
     Network (MPN)
+- NEVER include a section titled **Education & Certifications**
 
 ---
 

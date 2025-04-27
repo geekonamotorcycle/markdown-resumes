@@ -93,10 +93,10 @@ business continuity, and automation.
 
 ---
 
-## Education & Certifications
+## Partnerships  
 
-- **Strategic Partnerships**: Cisco, Meraki, Ruckus, IXsystems, Vates (XCP-ng), TD Synnex, Ingram Micro, AppDirect, Pax8, Microsoft Partner Network (MPN)
-- **Certifications**: Listed strategic partnerships as key enablers rather than traditional certifications.
+- **Strategic Partnerships**: Cisco, Meraki, Ruckus, IXsystems, Vates (XCP-ng), TD Synnex, Ingram Micro, AppDirect, Pax8
+ , Microsoft Partner Network (MPN)
 
 ---
 
