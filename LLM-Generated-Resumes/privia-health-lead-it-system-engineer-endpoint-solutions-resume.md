@@ -1,98 +1,110 @@
-# Joshua Porrata
+# Joshua Porrata – Lead IT System Engineer – Endpoint Solutions Resume
 
-Greater Tampa Bay, FL | [joshua.porrata@gmail.com](mailto:joshua.porrata@gmail.com) | [GitHub](https://github.com/geekonamotorcycle) | [LinkedIn](https://www.linkedin.com/in/joshuaporrata)
+**Contact Information**  
+Email: [joshua.porrata@gmail.com](mailto:joshua.porrata@gmail.com)  
+Location: Greater Tampa Bay, FL  
+GitHub: [https://github.com/geekonamotorcycle/markdown-resumes](https://github.com/geekonamotorcycle/markdown-resumes)  
 
 ---
 
 ## Summary
 
-Accomplished IT Systems Engineer with over 8 years of experience in endpoint management, system hardening, security, and automation. Adept at managing and securing large-scale environments, including endpoint protection, patch management, and vulnerability remediation. Skilled in using automation tools like PowerShell and scripting languages to improve system efficiency and compliance. Focused on achieving security, reliability, and scalability across diverse IT environments.
-
----
-
-## Core Competencies
-
-- Endpoint Management & Security
-- Antivirus Monitoring & Administration
-- Remote Monitoring & Management (RMM)
-- Patch & Vulnerability Management
-- CIS Benchmark Implementation
-- Google Workspace Endpoint Management
-- Team Leadership & Mentorship
-- Incident Response & Troubleshooting
-- Vendor Management & Contract Negotiation
-- Documentation & Compliance Reporting
-
----
-
-## Professional Experience
-
-### Lead IT Systems Engineer – Endpoint Solutions
-
-**Confidential Client** | Remote | Jan 2022 – Present
-
-- Led a team of engineers in managing and securing over 8,000 endpoints across diverse network environments, with a heavy concentration in Google Workspace.
-- Developed and implemented strategies for endpoint management, security, and compliance in collaboration with the cybersecurity team.
-- Administered and maintained enterprise-class endpoint management tools, including RMM platforms, antivirus solutions, patch management systems, and vulnerability scanners.
-- Configured, monitored, and administered antivirus solutions, proactively identifying and mitigating threats.
-- Managed the entire patch and vulnerability management lifecycle, from assessment and prioritization to deployment and remediation.
-- Implemented and enforced CIS benchmarks to harden endpoint security and ensure compliance.
-- Developed and maintained comprehensive documentation related to endpoint management processes, configurations, policies, and best practices.
-- Collaborated with other IT teams to ensure seamless integration of endpoint solutions with other systems and services.
-- Stayed up-to-date with the latest endpoint security threats, vulnerabilities, and technologies.
-
-### IT Systems Engineer
-
-**XYZ Corporation** | Tampa, FL | Jun 2017 – Dec 2021
-
-- Managed endpoint security solutions for over 5,000 devices, ensuring compliance with organizational policies and industry standards.
-- Led the deployment and configuration of antivirus software across the enterprise.
-- Coordinated patch management processes, including assessment, testing, and deployment of updates.
-- Conducted vulnerability assessments and implemented remediation strategies to address identified risks.
-- Developed and maintained system documentation, including procedures, configurations, and troubleshooting guides.
-- Provided technical support and training to end-users and IT staff.
-
----
-
-## Education
-
-**Bachelor of Science in Information Technology**  
-University of South Florida | Tampa, FL | Graduated: May 2017
-
----
-
-## Certifications
-
-- CompTIA Security+
-- Certified Information Systems Security Professional (CISSP) – In Progress
+Experienced Senior Systems Engineer with a strong background in managing complex IT infrastructures,  
+endpoint security, automation, and system documentation. Proven expertise in managing large-scale  
+environments using ConnectWise Manage, LabTech, and implementing customer and MSP policies. Highly  
+skilled in endpoint protection architecture, security auditing, and IT process optimization. Experienced  
+in designing, deploying, and maintaining secure, scalable environments with a focus on compliance,  
+business continuity, and automation.
 
 ---
 
 ## Technical Skills
 
-- **Operating Systems**: Windows, Linux, macOS
-- **Tools & Technologies**: Google Workspace, Microsoft Endpoint Manager, SolarWinds RMM, Symantec Endpoint Protection, WSUS, SCCM
-- **Scripting & Automation**: PowerShell, Bash
-- **Networking**: TCP/IP, DNS, DHCP, VPN
-- **Security**: CIS Benchmarks, NIST Cybersecurity Framework
+- **Operating Systems**: Windows Server (2003–2025), Linux/BSD (Debian, Ubuntu, CentOS, AlmaLinux), FreeIPA
+- **Endpoint Security**: Bitdefender GravityZone, ESET Protect, Group Policy Management, SCCM
+- **Security & Compliance**: Zero Trust Architecture, Cloudflare Zero Trust, AD/LDAP, VPN, DLP, SIEM, SOC 2, GDPR
+- **Automation & Scripting**: PowerShell, Bash, Python, ConnectWise Automate, LabTech RMM, Docker Compose
+- **Virtualization**: XCP-ng, VMware vSphere, Hyper-V, Xen Orchestra, Docker, Kubernetes (basic)
+- **Backup & Disaster Recovery**: Veeam, Datto, StorageCraft, Synology, TrueNAS SCALE
+- **Cloud & Hybrid Systems**: AWS EC2, Azure, M365, Entra ID, TrueNAS API
+- **Networking & Security**: pfSense, OPNsense, SonicWall, Meraki, Ubiquiti, Ruckus Wireless
+- **Project Management & Documentation**: JIRA, Confluence, GitHub, Markdown, SOPs, Runbooks, Project Planning
 
 ---
 
-## Select Projects
+## Work Experience
 
-_Most projects involve sensitive client environments and cannot be publicly disclosed. The examples below reflect open-source tools or personal lab work shared for demonstration purposes._
+### RP Digital Consulting LLC — Principal Consultant & Privacy-Focused Architect  
+01/2025 – Present | Remote
 
-- **[XCP-ng NIC Labeler](https://github.com/geekonamotorcycle/xcp-ng-nic-labeler)**: Developed a tool to automate the labeling of network interfaces in XCP-ng environments, enhancing network management efficiency.
-- **[FileManipulator](https://github.com/geekonamotorcycle/FileManipulator)**: Created a utility for batch processing and managing file operations, streamlining administrative tasks.
-- **[Markdown Resumes](https://github.com/geekonamotorcycle/markdown-resumes)**: Designed a framework for generating professional resumes in Markdown format, facilitating easy customization and updates.
-- **[Password Manager Templates](https://github.com/geekonamotorcycle/Password-Manager-Templates)**: Developed templates for securely storing and managing passwords, promoting best practices in information security.
+- Led full-cycle engagements for eCommerce and warehouse fulfillment, designing secure, self-managed IT infrastructures.
+- Implemented endpoint protection across thousands of devices, focusing on automation, policy enforcement, and
+ compliance.
+- Designed and deployed hybrid identity systems, including Active Directory, Entra ID, and M365 integrations.
+- Authored and implemented disaster recovery plans, security audits, and automation workflows using PowerShell, Bash,
+ and Python.
+- Managed multi-site environments with secure network segmentation, Zero Trust, and VPN configurations.
+
+### Summit Business Technologies — Senior Systems Engineer  
+10/2017 – 01/2025 | Remote
+
+- Managed endpoint protection using Bitdefender GravityZone and ESET for hundreds of devices across client environments.
+- Led the design, deployment, and management of secure infrastructure solutions, with a focus on disaster recovery and
+ system automation.
+- Utilized ConnectWise Automate for centralized endpoint management, automated issue resolution, and proactive alerting.
+- Conducted advanced Group Policy troubleshooting, endpoint migrations, and network segmentation for SMBs in healthcare,
+ legal, and nonprofit sectors.
+- Developed and maintained client-facing documentation and internal SOPs to streamline escalation workflows.
+
+### JPMorgan Chase — IAM & Unstructured Data Analyst  
+01/2014 – 03/2016 | Tampa, FL
+
+- Played a key role in auditing and remediating NTFS and Share permissions across acquired bank environments, ensuring
+ compliance with security policies.
+- Developed custom automation tools using PowerShell, Python, and VBScript to streamline permissions audits and
+ remediation tasks.
+- Collaborated with leadership to standardize data management practices across global business units.
+- Mentored engineers, providing quality assurance and process improvements in unstructured data management.
+
+### CenturyLink / Lumen (via Ciber) — Enterprise Support Analyst  
+12/2010 – 12/2013 | Tampa, FL
+
+- Provided Tier 2 support for a diverse set of enterprise clients, specializing in AD account management, Citrix, and
+ SCCM patching.
+- Delivered high-quality, responsive support, with a focus on troubleshooting complex issues involving remote access,
+ email flow, and firewall configurations.
+- Authored internal documentation and escalation paths, improving ticket resolution efficiency and client satisfaction.
 
 ---
 
-## Summary
+## Relevant Projects
 
-This resume highlights only selected skills and experience. Additional capabilities and project history are available upon request.
+### **XCP-ng NIC Labeler**  
+
+- Developed a BASH-based utility for automated NIC labeling within XCP-ng environments.
+- Integrated with XCP-ng and Xen Orchestra for seamless VM management and system documentation.  
+- GitHub: [https://github.com/geekonamotorcycle/xcp-ng-nic-labeler](https://github.com/geekonamotorcycle/xcp-ng-nic-labeler)
+
+### **FileManipulator**  
+
+- Built a C# CLI tool for file system metadata analysis, hash computation, and deduplication workflows.
+- Leveraged Docker for containerized deployment and cross-platform integration.  
+- GitHub: [https://github.com/geekonamotorcycle/FileManipulator](https://github.com/geekonamotorcycle/FileManipulator)
 
 ---
 
-_Let’s build secure, automated infrastructure that just works._
+## Education & Certifications
+
+- **Strategic Partnerships**: Cisco, Meraki, Ruckus, IXsystems, Vates (XCP-ng), TD Synnex, Ingram Micro, AppDirect, Pax8, Microsoft Partner Network (MPN)
+- **Certifications**: Listed strategic partnerships as key enablers rather than traditional certifications.
+
+---
+
+## Additional Information
+
+- **References**: Available upon request following conversation.  
+- **Availability**: Open to remote work or other arrangements after discussion.
+
+---
+
+## Filename: priviahealth-lead-it-system-engineer-endpoint-solutions-resume.md
