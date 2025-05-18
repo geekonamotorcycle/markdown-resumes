@@ -1,0 +1,72 @@
+JOSHUA PORRATA  
+Greater Tampa Bay, FL  
+Email: joshua.porrata@gmail.com  
+LinkedIn: linkedin.com/in/joshua-p-8a2a3424  
+GitHub: github.com/geekonamotorcycle/markdown-resumes  
+Phone: (813) 777-6289  
+
+PROFESSIONAL SUMMARY  
+Senior Systems Engineer with over 17 years of experience specializing in endpoint management, IT systems engineering, and infrastructure modernization. Proven expertise in Active Directory (AD) management, domain controller configuration, endpoint security, and automation using PowerShell, Bash, and Python. Skilled in designing, implementing, and supporting enterprise-level IT solutions with a focus on remote management and customer satisfaction. Demonstrated success in automating support processes, enhancing system reliability, and optimizing infrastructure performance.  
+
+SKILLS  
+- Customer Support and Communication: Proven ability to translate complex technical issues into clear, actionable solutions.  
+- Technical Troubleshooting: Proficient in diagnosing system issues, network problems, and configuration errors.  
+- SaaS Product Support: Skilled in supporting cloud-based platforms and maintaining service continuity for B2B environments.  
+- Documentation and Training: Developed clear technical documentation and guides for system administration and end-user support.  
+- Infrastructure Management: Expertise in DNS management (Cloudflare), email security (SPF, DKIM, DMARC), and containerized environments (Docker).  
+- Automation and Scripting: Skilled in PowerShell, Bash, and Python for automating support tasks, data analysis, and system configuration.  
+- DNS and Network Management: Proficient in DNS record management (Cloudflare), DHCP configuration, and multi-site networking.  
+- Remote Support and Ticketing Systems: Experienced with ConnectWise Manage for ticketing, remote issue resolution, and client relationship management.  
+- Endpoint Management: Advanced experience with Windows-based endpoint configuration, GPO management, and remote support.  
+
+PROFESSIONAL EXPERIENCE  
+
+RP DIGITAL CONSULTING LLC  
+Principal Consultant and Privacy-Focused Architect  
+January 2025 – Present | Greater Tampa Bay Area (Remote)  
+- Lead endpoint management and systems integration projects for SMB clients.  
+- Implement secure endpoint configurations using GPOs and automation scripts.  
+- Automate routine endpoint maintenance using PowerShell, Bash, and Python.  
+- Provide technical support for infrastructure issues, including DNS configurations and email security.  
+- Develop technical documentation to guide customers through endpoint management processes.  
+
+SUMMIT BUSINESS TECHNOLOGIES  
+Senior Systems Engineer  
+October 2017 – January 2025 | Remote from Florida  
+- Delivered technical support for over 100 clients, including healthcare, legal, and nonprofit organizations.  
+- Managed cloud services, virtualization (XCP-ng, VMware), and endpoint protection (Bitdefender GravityZone, ESET).  
+- Configured domain controllers, managed AD permissions, and maintained GPO consistency.  
+- Provided remote technical assistance and maintained high levels of client satisfaction.  
+- Developed SOPs and runbooks for endpoint security and configuration management.  
+
+JPMORGAN CHASE  
+IAM and Unstructured Data Analyst  
+January 2014 – March 2016 | Tampa, FL  
+- Participated in global IAM projects to standardize data permissions across newly acquired banks.  
+- Developed scripts (PowerShell, Python, VBScript) for auditing and automating data permissions.  
+- Improved endpoint security by standardizing permission configurations and eliminating legacy access.  
+- Authored technical documentation and trained staff on data management and compliance.  
+
+CENTURYLINK / LUMEN (via Ciber)  
+Enterprise Support Analyst  
+December 2010 – December 2013 | Tampa, FL  
+- Provided Tier 2 support for enterprise clients, including AD account support, Citrix troubleshooting, and SCCM patching.  
+- Managed multi-site endpoint environments, addressing client issues efficiently.  
+- Delivered customer-centric support for high-visibility organizations.  
+- Created internal documentation for common endpoint troubleshooting procedures.  
+
+VERIZON (via Siwel and Pomeroy)  
+IT Support Analyst  
+January 2007 – March 2009 | Temple Terrace, FL  
+- Delivered technical support for desktop, mobile, and VPN endpoints in a large corporate environment.  
+- Managed AD account maintenance, password resets, and remote access support.  
+- Provided timely assistance for VPN connectivity and application troubleshooting.  
+- Documented common endpoint issues and resolution steps for support team reference.  
+
+STRATEGIC PARTNERSHIPS  
+- TD Synnex, AppDirect, Cisco, Meraki, Ruckus, Vates (XCP-ng), Pax8, Ingram Micro, Microsoft Partner Network (MPN)  
+
+ADDITIONAL INFORMATION  
+References available upon request following conversation.  
+This resume highlights selected skills and experience. Additional capabilities and project history are available upon request.  
+Let's build secure, automated endpoint management solutions that just work.  
